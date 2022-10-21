@@ -1,2 +1,0 @@
-# desafioYape
-Prueba de yape
